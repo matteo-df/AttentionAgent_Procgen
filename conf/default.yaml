@@ -1,0 +1,7 @@
+defaults:
+  - game: dodgeball
+  - attention_agent: attention_agent
+  - self_attention: self_attention
+  - lstm: lstm
+  - cmaes: cmaes
+  - log: log

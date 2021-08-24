@@ -1,0 +1,6 @@
+_target_: src.models.lstm.LSTM
+
+feature_dim: ${attention_agent.feature_dim}
+action_space: 10
+hidden_units: 16
+num_layers: 1
