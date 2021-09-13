@@ -4,7 +4,7 @@ In this work, the [Neuroevolution of Self-Interpretable Agents](https://attentio
 
 ![Attention_Agent_Dodgeball](https://github.com/zeeke22/AttentionAgent_Procgen/blob/main/log/gif/poscol_rew20.gif)
 
-Our agent receives visual input as a stream of 96x96px RGB images (left). Each image frame is passed through a self-attention bottleneck module, responsible for selecting K=10 patches (highlighted in white, middle).
+Our agent receives visual input as a stream of 96x96px RGB images. Each image frame is passed through a self-attention bottleneck module, responsible for selecting K=10 patches (highlighted in the gif above).
 
 The agent segment the 96x96px image inputs of each game step into N patches and then creates an Attention matrix. For each patch, it obtains a vector representing the corresponding importance, in order to select K patches of the highest importance.
 Features from these K patches (such as location) are then used by a controller (LSTM module) to produce the agent action.
