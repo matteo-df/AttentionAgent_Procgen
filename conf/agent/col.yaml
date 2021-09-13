@@ -1,0 +1,9 @@
+agent_name: col
+
+defaults:
+  - game: dodgeball
+  - attention_agent: attention_agent_col
+  - self_attention: self_attention
+  - lstm: lstm
+  - cmaes: cmaes
+  - log: log

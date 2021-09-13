@@ -1,2 +1,9 @@
 # Project exclude paths
+/.cache/
+/.idea/
 /.venv/
+/procgen/
+/procgen-build/
+/scripts/
+/outputs/
+/pretrained/old/

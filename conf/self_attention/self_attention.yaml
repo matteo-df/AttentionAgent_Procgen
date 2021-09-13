@@ -1,6 +1,0 @@
-_target_: src.models.self_attention.SelfAttention
-
-data_dim: 0   # it should be 3 * patch_size ** 2
-              # but omegaconf does not support algebraic operations
-              # so this value is modified later by the attention agent
-query_dim: 4

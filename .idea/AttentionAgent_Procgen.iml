@@ -3,8 +3,43 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/outputs/2021-09-10/19-34-30/wandb/run-20210910_193431-1x8lbfn3/tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/outputs/2021-09-10/10-23-18" />
+      <excludeFolder url="file://$MODULE_DIR$/outputs/2021-09-10/10-54-05" />
+      <excludeFolder url="file://$MODULE_DIR$/outputs/2021-09-10/10-59-30" />
+      <excludeFolder url="file://$MODULE_DIR$/outputs/2021-09-10/11-03-51" />
+      <excludeFolder url="file://$MODULE_DIR$/outputs/2021-09-10/11-08-08" />
+      <excludeFolder url="file://$MODULE_DIR$/outputs/2021-09-10/11-10-49" />
+      <excludeFolder url="file://$MODULE_DIR$/outputs/2021-09-10/11-12-37" />
+      <excludeFolder url="file://$MODULE_DIR$/outputs/2021-09-11/08-27-26/wandb/run-20210911_082727-hh95zbkm/tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/outputs/2021-09-11/10-55-57/wandb/run-20210911_105558-3puwolhp/tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/outputs/2021-09-11/22-27-50/wandb/run-20210911_222751-2w7ue6ql/tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/outputs/2021-08-28" />
+      <excludeFolder url="file://$MODULE_DIR$/outputs/2021-08-29" />
+      <excludeFolder url="file://$MODULE_DIR$/outputs/2021-08-31" />
+      <excludeFolder url="file://$MODULE_DIR$/outputs/2021-09-01" />
+      <excludeFolder url="file://$MODULE_DIR$/outputs/2021-09-02" />
+      <excludeFolder url="file://$MODULE_DIR$/outputs/2021-09-03" />
+      <excludeFolder url="file://$MODULE_DIR$/outputs/2021-09-05" />
+      <excludeFolder url="file://$MODULE_DIR$/outputs/2021-09-06" />
+      <excludeFolder url="file://$MODULE_DIR$/outputs/2021-09-07" />
+      <excludeFolder url="file://$MODULE_DIR$/outputs/2021-09-08" />
+      <excludeFolder url="file://$MODULE_DIR$/outputs/2021-09-09" />
+      <excludeFolder url="file://$MODULE_DIR$/procgen/.build/relwithdebinfo/CMakeFiles/3.20.2" />
+      <excludeFolder url="file://$MODULE_DIR$/procgen/.build/relwithdebinfo/CMakeFiles/CMakeTmp" />
+      <excludeFolder url="file://$MODULE_DIR$/procgen/data" />
+      <excludeFolder url="file://$MODULE_DIR$/procgen/examples" />
+      <excludeFolder url="file://$MODULE_DIR$/procgen-build" />
+      <excludeFolder url="file://$MODULE_DIR$/scripts" />
+      <excludeFolder url="file://$MODULE_DIR$/outputs/2021-09-12" />
+      <excludeFolder url="file://$MODULE_DIR$/outputs/2021-09-13" />
+      <excludeFolder url="file://$MODULE_DIR$/pretrained/old" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.8 (AttentionAgent_Procgen)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="PackageRequirementsSettings">
+    <option name="versionSpecifier" value="Strong equality (==x.y.z)" />
+    <option name="removeUnused" value="true" />
   </component>
 </module>

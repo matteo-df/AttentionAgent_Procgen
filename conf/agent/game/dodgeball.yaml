@@ -1,0 +1,10 @@
+_target_: procgen.ProcgenGym3Env
+num: 1
+env_name: 'dodgeball'
+start_level: 0
+num_levels: 0
+render_mode: 'rgb_array'
+use_backgrounds: False
+use_monochrome_assets: True
+restrict_themes: True
+distribution_mode: 'easy'

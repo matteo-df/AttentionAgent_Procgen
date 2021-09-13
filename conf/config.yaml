@@ -1,0 +1,6 @@
+n_episodes: 1000
+render: False
+save_gif_with_attention_patches: True
+
+defaults:
+  - agent: poscol

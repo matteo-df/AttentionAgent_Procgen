@@ -1,3 +1,0 @@
-sigma0: 0.1
-popsize: 100
-randn: np.random.randn

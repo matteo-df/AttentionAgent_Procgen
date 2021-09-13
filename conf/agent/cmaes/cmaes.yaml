@@ -1,0 +1,4 @@
+sigma0: 0.1
+popsize: 50
+randn: np.random.randn
+training_steps: 300

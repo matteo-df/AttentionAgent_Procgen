@@ -1,0 +1,12 @@
+agent_name: ${agent.agent_name}
+
+home: ../../../
+log_dir: ${agent.log.home}/log
+log_gif: ${agent.log.log_dir}/gif/
+log_training: ${agent.log.log_dir}/cmaes_checkpoint/
+log_model: ${agent.log.home}/pretrained/
+
+wandb:
+  name: ${agent.log.agent_name}
+  project: attention_agent_dodgeball
+  mode: 'online'
